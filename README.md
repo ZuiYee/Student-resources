@@ -12,7 +12,7 @@
 
 # 注意点
 
-* 查看、利用、转载、引用本集锦请查看 [License](https://github.com/ivmm/Student-resources/blob/master/lisence)。
+* 查看、利用、转载、引用本集锦请查看 [License](./LICENSE)。
 * 一切官方的助学资金等，请咨询学校领导、辅导员、班主任，请勿向陌生账户转账！
 * 校园借贷风险极高，请谨慎尝试。
 * 对需要出示身份证、手持身份证的资源请保持谨慎。
@@ -61,7 +61,6 @@
 - **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。
 - **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
 - **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
-- 
 
 # 实用干货
 
